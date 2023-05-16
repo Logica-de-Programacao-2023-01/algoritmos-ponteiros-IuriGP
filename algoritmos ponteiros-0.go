@@ -32,5 +32,5 @@ type info struct {
 }
 
 func Novopreço() {
-	
+
 }
